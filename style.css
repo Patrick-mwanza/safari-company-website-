@@ -39,7 +39,7 @@ header {
   color: #fff;
   padding: 1em 0;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  background-image: url('landscape .jpg'); 
+  background-image: url('landscape .webp'); 
   background-size: cover;
   background-position: center center;
   transition: background-image 0.5s ease-in-out;
